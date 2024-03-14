@@ -1,0 +1,8 @@
+pydantic
+requests
+instructor
+openai
+python-dotenv
+pandas
+google-cloud-bigquery
+
